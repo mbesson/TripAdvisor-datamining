@@ -1,1 +1,0 @@
-This folder contains the results in a JSON format.
