@@ -1,1 +1,9 @@
 .ipynb_checkpoints
+
+# path to data
+data/*
+data_cleaning/*
+data_movies/*
+
+# rapport
+rapport/*
