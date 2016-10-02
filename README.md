@@ -1,2 +1,2 @@
-# TripAdvisor-datamining
+# Datamining using data from TripAdvisor
 
